@@ -1,10 +1,11 @@
 # Last Pass SSH Key script
 
-Loads and imports ssh keys into Last Pass
+Loads and imports ssh keys into Last Pass (https://www.lastpass.com/)
 
 ## Prerequirements
   * ssh_keys "folder" in lastpass
-  * lpass tool installed & configured
+  * lpass tool installed & configured (https://github.com/lastpass/lastpass-cli)
+    (available in some linux distros as package)
   * ssh-add
 
 ## Usage
